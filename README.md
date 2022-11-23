@@ -1,5 +1,5 @@
 # Getting Started with Create React App
- [Live Demo](https://todo-list.dheerajkumar52.repl.co/).
+ [Live Demo](https://todo-list.dheerajkumar52.repl.co/)
 
 ## Available Scripts
 
